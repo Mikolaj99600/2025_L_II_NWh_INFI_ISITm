@@ -1,6 +1,6 @@
 from hello_world import app
 from hello_world.formatter import get_formatted
-from hello_world.formater import SUPPORTED, PLAIN
+from hello_world.formatter import SUPPORTED, PLAIN
 from flask import request
 
 moje_imie = "Mikolaj"
